@@ -1,4 +1,4 @@
-FROM productize/docker-arm-embedded:2017.04
+FROM productize/docker-arm-embedded:2017.10
 MAINTAINER Seppe Stas <seppe@productize.be>
 LABEL Description="Image for building embedded C projects using protobufs with the gcc-arm-embedded toolchain"
 
